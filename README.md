@@ -100,7 +100,11 @@ This preserves both local and global structure ideal for cluster identification.
 You can find the corresponding research paper, edit it collaboratively via Overleaf:
 [Overleaf Project]([https://www.overleaf.com/read/XYZ-YOUR-LINK](https://www.overleaf.com/read/qtfbdwknkxjp#bcf527))
 
-
+##   Author
+Artem V. Sinitsa, PhD
+Research Fellow in Computational Modeling & AI-driven Digital Twin Systems
+SISSA – International School for Advanced Studies
+✉️ artem.sinitsa@sissa.it | asinitsa@sissa.it
 ---
 
 ##   Quick Start
@@ -111,8 +115,4 @@ cd health-landscape-analysis
 pip install -r requirements.txt
 
 python main.py
-##   Author
-Artem V. Sinitsa, PhD
-Research Fellow in Computational Modeling & AI-driven Digital Twin Systems
-SISSA – International School for Advanced Studies
-✉️ artem.sinitsa@sissa.it | asinitsa@sissa.it
+
